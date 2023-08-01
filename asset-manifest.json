@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/credentials/static/css/main.c0f8c41e.css",
+    "main.js": "/credentials/static/js/main.f62c3807.js",
+    "static/js/787.75f4979e.chunk.js": "/credentials/static/js/787.75f4979e.chunk.js",
+    "static/media/pic.jpg": "/credentials/static/media/pic.bfa446fc2b8917ea24d7.jpg",
+    "static/media/title.pdf": "/credentials/static/media/title.9e8aab2ef39eb9af0f0a.pdf",
+    "static/media/espe.png": "/credentials/static/media/espe.23c1e97fd1f5e2f96b2e.png",
+    "static/media/mention.pdf": "/credentials/static/media/mention.f7d149573f9e6aefb720.pdf",
+    "static/media/algorithms.pdf": "/credentials/static/media/algorithms.a1c8cc0f746129d52445.pdf",
+    "static/media/hackmakers.pdf": "/credentials/static/media/hackmakers.c57c4e8746b3a6292808.pdf",
+    "static/media/responsive.pdf": "/credentials/static/media/responsive.cb8b6b65cabc57f9c35b.pdf",
+    "static/media/oci.pdf": "/credentials/static/media/oci.96bfb8acea3e7aa9f977.pdf",
+    "static/media/ccna.pdf": "/credentials/static/media/ccna.54e12961597a026650c8.pdf",
+    "static/media/logo.svg": "/credentials/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/credentials/index.html",
+    "main.c0f8c41e.css.map": "/credentials/static/css/main.c0f8c41e.css.map",
+    "main.f62c3807.js.map": "/credentials/static/js/main.f62c3807.js.map",
+    "787.75f4979e.chunk.js.map": "/credentials/static/js/787.75f4979e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f8c41e.css",
+    "static/js/main.f62c3807.js"
+  ]
+}
