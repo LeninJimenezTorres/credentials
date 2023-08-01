@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  overflow-y: hidden;
+  width: 100%;
+  height: 100vh;
+  margin: 0%;
+  padding: 0%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 50%;
+  height: 100vh;
+
+}
+.body {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.body ul{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(102, 51, 153, 0);
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+  padding-top: 2%;
+}
+
+.body li, .body li a {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  background-color: #61dafb00;
+  margin-top: 10px;
+  font: 2rem;
+}
+
+.body li a {
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+}
+.a-in, .a-ima{
+  display: flex;
+  width: 50%;
+  height: 100%;
+}
+.a-in{
+  justify-content: left;
+  align-self: flex-start;
+  text-align: justify;
+  color: black;
+  font-size: medium;
+  padding-left: 5%;
+  padding: 2%;
+}
+
+.sub{
+  color: #282c34;
+
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
